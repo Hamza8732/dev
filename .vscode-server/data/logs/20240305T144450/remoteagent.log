@@ -1,0 +1,12 @@
+2024-03-05 14:44:50.868 [info] 
+
+
+
+
+2024-03-05 14:44:50.869 [info] Extension host agent started.
+2024-03-05 14:44:51.006 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-fr /home/marouane_hamza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.85.2024012409
+2024-03-05 14:44:51.462 [info] [127.0.0.1][ac7229e1][ManagementConnection] New connection established.
+2024-03-05 14:44:51.929 [info] [127.0.0.1][3ad4e32f][ExtensionHostConnection] New connection established.
+2024-03-05 14:44:51.957 [info] [127.0.0.1][3ad4e32f][ExtensionHostConnection] <878> Launched Extension Host Process.
+2024-03-05 15:26:05.832 [info] [127.0.0.1][ac7229e1][ManagementConnection] The client has reconnected.
+2024-03-05 15:26:06.309 [info] [127.0.0.1][3ad4e32f][ExtensionHostConnection] The client has reconnected.

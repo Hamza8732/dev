@@ -1,0 +1,25 @@
+2024-02-26 11:18:45.313 [info] Extension host with pid 3016 started
+2024-02-26 11:18:45.403 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-26 11:18:45.438 [info] Lock '/home/marouane_hamza/.vscode-server/data/User/workspaceStorage/d4f6a1c988f769c1919457244ec47b4c/vscode.lock': Lock acquired.
+2024-02-26 11:18:45.463 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-26 11:18:45.728 [info] Eager extensions activated
+2024-02-26 11:18:45.737 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-26 11:18:45.739 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-26 11:18:47.485 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-02-26 11:19:29.112 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-02-26 11:19:29.113 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-26 13:17:00.437 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-03-04 14:14:37.530 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-03-04 14:14:37.718 [info] Lock '/home/marouane_hamza/.vscode-server/data/User/workspaceStorage/d4f6a1c988f769c1919457244ec47b4c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-04 14:14:38.650 [info] Extension host with pid 3016 exiting with code 0
+2024-03-04 14:37:26.249 [info] Extension host with pid 23910 started
+2024-03-04 14:37:26.351 [info] Lock '/home/marouane_hamza/.vscode-server/data/User/workspaceStorage/d4f6a1c988f769c1919457244ec47b4c/vscode.lock': Lock acquired.
+2024-03-04 14:37:26.675 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-03-04 14:37:26.678 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-04 14:37:26.679 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-03-04 14:37:27.682 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-04 14:37:27.707 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-04 14:37:27.707 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-04 14:37:29.008 [info] Eager extensions activated
+2024-03-04 14:37:29.010 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-04 14:37:29.011 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

@@ -1,0 +1,44 @@
+2024-01-30 16:14:52.864 [info] 
+
+
+
+
+2024-01-30 16:14:52.864 [info] Extension host agent started.
+2024-01-30 16:14:52.872 [info] Started initializing default profile extensions in extensions installation folder. file:///home/marouane_hamza/.vscode-server/extensions
+2024-01-30 16:14:52.987 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/marouane_hamza/.vscode-server/extensions
+2024-01-30 16:14:53.275 [info] [127.0.0.1][7b30b4cc][ManagementConnection] New connection established.
+2024-01-30 16:14:56.049 [info] [127.0.0.1][6076b6a8][ExtensionHostConnection] New connection established.
+2024-01-30 16:14:56.241 [info] [127.0.0.1][6076b6a8][ExtensionHostConnection] <13480> Launched Extension Host Process.
+2024-01-30 16:15:02.225 [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+2024-01-30 16:15:02.435 [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+2024-01-30 16:15:03.559 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-fr
+2024-01-30 16:15:04.140 [info] Extracted extension to file:///home/marouane_hamza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.85.2024012409: ms-ceintl.vscode-language-pack-fr
+2024-01-30 16:15:04.151 [info] Renamed to /home/marouane_hamza/.vscode-server/extensions/ms-ceintl.vscode-language-pack-fr-1.85.2024012409
+2024-01-30 16:15:04.157 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-fr
+2024-01-30 16:15:04.169 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+2024-01-30 16:15:04.342 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr
+2024-01-30 17:16:40.889 [info] [127.0.0.1][6076b6a8][ExtensionHostConnection] The client has reconnected.
+2024-01-30 17:16:41.529 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-05 14:18:34.244 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-05 14:18:36.233 [info] [127.0.0.1][6076b6a8][ExtensionHostConnection] The client has reconnected.
+2024-02-06 11:28:53.728 [info] [127.0.0.1][6076b6a8][ExtensionHostConnection] The client has reconnected.
+2024-02-06 11:28:55.392 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-07 16:17:40.209 [info] [127.0.0.1][6076b6a8][ExtensionHostConnection] <13480> Extension Host Process exited with code: 0, signal: null.
+2024-02-11 17:15:11.696 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-11 17:15:12.368 [error] [127.0.0.1][6076b6a8][ExtensionHostConnection] Unknown reconnection token (seen before).
+2024-02-11 17:15:12.977 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] New connection established.
+2024-02-11 17:15:13.226 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] <27716> Launched Extension Host Process.
+2024-02-13 17:11:25.090 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-13 17:12:00.819 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-13 17:26:04.321 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-13 17:26:07.663 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-13 18:05:38.757 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-13 18:06:09.962 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-13 20:20:28.291 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-13 20:30:32.951 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-14 00:28:00.956 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-14 00:28:05.042 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-14 01:40:24.494 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
+2024-02-14 01:40:25.111 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-24 02:23:06.801 [info] [127.0.0.1][a2d1888b][ExtensionHostConnection] The client has reconnected.
+2024-02-24 02:23:07.902 [info] [127.0.0.1][7b30b4cc][ManagementConnection] The client has reconnected.
